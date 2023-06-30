@@ -1,9 +1,11 @@
 ## Posts
 
-<sub><sup>30.06.23</sup></sub>
+30.06.23
+
 [Post 1](new_entry.md)
 
-<sub><sup>30.06.23</sup></sub>
+30.06.23
+
 [Post 2](./blog/new_entry.md)
 
 
